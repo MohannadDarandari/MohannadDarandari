@@ -1,6 +1,23 @@
-# Contributing to Mohannad-Darandari Portfolio
+<div align="center">
 
-Thank you for your interest in contributing!
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20&height=250&section=header&text=🤝%20CONTRIBUTING&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Join%20the%20AI%20Revolution!&descSize=25&descAlignY=60" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=💡+Your+Ideas+Matter!;🚀+Let's+Build+Together;🌟+All+Contributions+Welcome!" alt="Contributing" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+# 🎯 Contributing to Mohannad Darandari Portfolio
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PRs-Accepted-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Community-Friendly-orange?style=for-the-badge"/>
+</p>
+
+Thank you for your interest in contributing! 🙏
 
 ## How to Contribute
 

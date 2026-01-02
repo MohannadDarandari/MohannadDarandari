@@ -1,52 +1,75 @@
-# 
-```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗███╗   ██╗ █████╗ ██████╗ 
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗  ██║████╗  ██║██╔══██╗██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔██╗ ██║██╔██╗ ██║███████║██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╗██║██║╚██╗██║██╔══██║██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║██║ ╚████║██║  ██║██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ 
-```
-
 <div align="center">
 
-<!-- Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=MOHANNAD%20DARANDARI&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20ARCHITECT%20|%20🚀%20ML%20ENGINEER%20|%20💡%20AUTOMATION%20EXPERT&descSize=25&descAlignY=55" width="100%"/>
+<!-- Epic Animated Header with Wave Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=350&section=header&text=MOHANNAD%20DARANDARI&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%20VISIONARY%20|%20🚀%20ML%20ARCHITECT%20|%20⚡%20AUTOMATION%20MASTER%20|%20💡%20INNOVATION%20LEADER&descSize=22&descAlignY=58" width="100%"/>
 
-<!-- Typing Animation SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Pushing+AI+Boundaries+in+2026+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+MCP+%7C+Automation+Expert;Building+Intelligent+Agents+%26+Systems" alt="Typing SVG" /></a>
+<!-- Multi-Line Dynamic Typing Effect -->
+<a href="https://github.com/MohannadDarandari"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🔥+Revolutionizing+AI+%26+Automation+in+2026;💎+Expert+in+LLMs+%7C+RAG+%7C+MCP+%7C+Multi-Agent+Systems;⚡+Master+of+n8n+%7C+UiPath+%7C+Automation+Anywhere;🚀+Building+Next-Gen+Intelligent+Agents;🎯+Transforming+Vision+into+Reality" alt="Typing SVG" /></a>
 
-<!-- Animated Glowing Badges -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Glowing Animated Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠_Deep_Learning-Expert-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a&animation=pulse" />
-  <img src="https://img.shields.io/badge/🤖_LLMs_&_GPT-Specialist-4ECDC4?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/⚡_Automation-Ninja-FFE66D?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🔮_RAG_Systems-Pioneer-A8E6CF?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🎯_MCP_Protocol-Advanced-FF8B94?style=for-the-badge&logo=protocol&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Deep%20Learning-FF6B6B?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-LLMs%20%26%20GPT-4ECDC4?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Automation-FFE66D?style=for-the-badge&logo=robot&logoColor=black&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-RAG%20Systems-A8E6CF?style=for-the-badge&logo=database&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-MCP%20Protocol-FF8B94?style=for-the-badge&logo=link&logoColor=white&labelColor=000000" />
 </p>
 
-<!-- Animated Stats with Glow Effect -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohannadDarandari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20%F0%9F%94%A5" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohannadDarandari&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFE66D&currStreakLabel=00D9FF" width="49%" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Computer%20Vision-9B59B6?style=for-the-badge&logo=eye&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-NLP%20Expert-3498DB?style=for-the-badge&logo=book&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-MLOps%20Pro-2ECC71?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Multi--Agent-E74C3C?style=for-the-badge&logo=users&logoColor=white&labelColor=000000" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Cloud%20AI-F39C12?style=for-the-badge&logo=cloud&logoColor=white&labelColor=000000" />
 </p>
 
-<!-- Animated Tech Stack -->
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<!-- GitHub Stats with Trophy & Activity -->
 <p align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohannadDarandari&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 </p>
 
-<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohannadDarandari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohannadDarandari&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FFE66D&fire=FF6B6B&currStreakLabel=00D9FF&dates=FFFFFF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohannadDarandari&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohannadDarandari&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFE66D" width="48%"/>
+</p>
+
+<!-- Tech Stack with Animations -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+<h3>🛠️ Tech Arsenal</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,elasticsearch,kafka" />
+  <img src="https://skillicons.dev/icons?i=vscode,vim,linux,bash,powershell" />
+</p>
+
+<!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohannadDarandari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/MohannadDarandari?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+</p>
 
 </div>
 
@@ -248,53 +271,166 @@
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
 
-### 1️⃣ **Advanced NLP Pipeline: Multi-Language Sentiment Analysis Engine**
-- **Tech Stack**: PyTorch, Transformers, FastAPI, Docker, PostgreSQL
-- **Impact**: Processed 10M+ documents, 95% accuracy across 25+ languages
-- **Innovation**: Zero-shot learning, multilingual BERT fine-tuning, real-time inference
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+<!-- Projects Section Header -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
-### 2️⃣ **Computer Vision: Real-Time Object Detection Dashboard**
-- **Tech Stack**: YOLOv8, React, FastAPI, WebSocket, OpenCV
-- **Impact**: 60 FPS detection, 99.2% accuracy on COCO dataset
-- **Innovation**: Edge deployment, multi-model ensemble, real-time visualization
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌟+Featured+Projects+🌟" alt="Projects" />
 
-### 3️⃣ **Time Series Forecasting: Intelligent Stock Prediction System**
-- **Tech Stack**: TensorFlow, LSTMs, Prophet, Django, React, PostgreSQL
-- **Impact**: RMSE < 2%, deployed across 50+ financial institutions
-- **Innovation**: Ensemble methods, uncertainty quantification, Bayesian optimization
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### 4️⃣ **Generative AI: Custom LLM Fine-Tuning Platform**
-- **Tech Stack**: PyTorch, Hugging Face, LoRA, QLoRA, FastAPI, Kubernetes
-- **Impact**: 10x faster training, 70% memory reduction with QLoRA
-- **Innovation**: Parameter-efficient fine-tuning, multi-GPU distributed training
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+</div>
 
-### 5️⃣ **ML Ops: End-to-End Model Registry & Deployment Pipeline**
-- **Tech Stack**: MLflow, Docker, Kubernetes, Terraform, CI/CD
-- **Impact**: Automated deployment, 99.99% uptime, version control for 200+ models
-- **Innovation**: Automated testing, A/B testing framework, canary deployments
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### 6️⃣ **Recommendation Engine: Hybrid Collaborative Filtering System**
-- **Tech Stack**: TensorFlow Recommenders, Surprise, Polars, Spark, Redis
-- **Impact**: 45% CTR improvement, personalized for 50M+ users
-- **Innovation**: Deep learning factorization, real-time serving, bandits algorithm
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+### 🤖 Advanced NLP Engine
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
 
-### 7️⃣ **Anomaly Detection: Multi-Modal Unsupervised Learning System**
-- **Tech Stack**: Autoencoders, Isolation Forests, LOF, Streaming Data Processing
-- **Impact**: 98% precision, detected 1000+ anomalies per day
-- **Innovation**: Ensemble methods, online learning, concept drift handling
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+**Multi-Language Sentiment Analysis**
+- ✨ 10M+ documents processed
+- 🎯 95% accuracy, 25+ languages
+- ⚡ Zero-shot learning enabled
+- 🚀 Real-time inference <50ms
 
-### 8️⃣ **RAG System: Enterprise Knowledge Base with LLMs**
-- **Tech Stack**: Langchain, FAISS, OpenAI, Pinecone, FastAPI, React
-- **Impact**: 90% query resolution accuracy, processes 100K+ documents
+[📁 Details](./projects/NLP_SENTIMENT_ANALYSIS.md) | [🔥 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision System
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Real-Time Object Detection**
+- 🎥 60 FPS performance
+- 🎯 99.2% accuracy on COCO
+- 🌐 Edge deployment ready
+- 💡 Multi-model ensemble
+
+[📁 Details](./projects/CV_OBJECT_DETECTION.md) | [🔥 Live Demo](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Stock Prediction AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-8E44AD?style=flat-square)
+![Prophet](https://img.shields.io/badge/Prophet-3498DB?style=flat-square)
+
+**Intelligent Forecasting System**
+- 📊 RMSE < 2% accuracy
+- 🏦 50+ institutions deployed
+- 🔮 Uncertainty quantification
+- 🎲 Bayesian optimization
+
+[📁 Details](./projects/TS_STOCK_FORECASTING.md) | [🔥 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 LLM Fine-Tuning Platform
+![GPT](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-FF4B4B?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Custom Model Training**
+- ⚡ 10x faster training
+- 💾 70% memory reduction
+- 🎯 Parameter-efficient
+- 🚀 Multi-GPU distributed
+
+[📁 Details](./projects/GEN_AI_LLM_TUNING.md) | [🔥 Live Demo](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ MLOps Pipeline
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Model Registry & Deployment**
+- 🎯 200+ models managed
+- ⚡ 99.99% uptime SLA
+- 🔄 Automated CI/CD
+- 🧪 A/B testing framework
+
+[📁 Details](./projects/MLOPS_REGISTRY.md) | [🔥 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Recommendation Engine
+![TensorFlow](https://img.shields.io/badge/TF_Recommenders-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Hybrid Filtering System**
+- 📈 45% CTR improvement
+- 👥 50M+ users served
+- ⚡ Sub-100ms latency
+- 🤖 Bandits algorithm
+
+[📁 Details](./projects/RECOMMENDATION_ENGINE.md) | [🔥 Live Demo](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 Anomaly Detection
+![Autoencoder](https://img.shields.io/badge/Autoencoder-9B59B6?style=flat-square)
+![IsolationForest](https://img.shields.io/badge/IForest-2ECC71?style=flat-square)
+![Streaming](https://img.shields.io/badge/Real--Time-E74C3C?style=flat-square)
+
+**Multi-Modal Detection**
+- 🎯 98% precision rate
+- 📊 1000+ daily detections
+- 🔄 Online learning
+- 💨 Concept drift handling
+
+[📁 Details](./projects/ANOMALY_DETECTION.md) | [🔥 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 RAG Knowledge System
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Enterprise AI Assistant**
+- 🎯 90% query accuracy
+- 📖 100K+ documents indexed
+- ⚡ Hybrid search (vector+keyword)
+- 🔄 Auto-updating knowledge
+
+[📁 Details](./projects/RAG_SYSTEM.md) | [🔥 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+</div>
+
+---
 - **Innovation**: Semantic chunking, re-ranking, fact verification pipeline
 - [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
 
@@ -452,15 +588,52 @@
 
 ---
 
+
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohannad-darandari)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohannadDarandari)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohannadDarandari)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohannad-darandari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohannad@example.com)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=📫+Let's+Connect+%26+Collaborate!;💼+Open+to+Opportunities;🚀+Building+the+Future+of+AI" alt="Connect" />
+
+<!-- Social Buttons with Hover Effect -->
+<p align="center">
+  <a href="https://linkedin.com/in/mohannad-darandari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="40"/></a>
+  <a href="https://github.com/MohannadDarandari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+  <a href="https://twitter.com/MohannadDarandari"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40"/></a>
+  <a href="https://kaggle.com/mohannaddarandari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40"/></a>
+  <a href="mailto:mohannad@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
+</p>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohannadDarandari&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFE66D&area=true&custom_title=📊%20Contribution%20Activity%20Timeline" width="95%"/>
+
+<!-- Animated Message -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=900&lines=⭐+Star+my+repos+if+you+find+them+useful!+⭐;🔥+Check+out+my+latest+AI+projects!+🔥;💡+Let's+build+amazing+things+together!+💡;🤝+Always+open+to+collaboration!+🤝" alt="Footer Message" />
+
+<!-- Stats and Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/MohannadDarandari?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/followers/MohannadDarandari?style=for-the-badge&logo=github&color=blue" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=MohannadDarandari&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<!-- Fun Badges -->
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="30"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" height="30"/>
+</p>
+
+<!-- Random Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="800"/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20Shape%20the%20Future%20Together%20🚀&descSize=20&descAlignY=90" width="100%"/>
 
 </div>
 
@@ -468,16 +641,21 @@
 
 ## 📝 License
 
-This portfolio and all associated projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This portfolio is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Mohannad Darandari**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+Mohannad+Darandari;Turning+Data+into+Intelligence;Powered+by+AI+%26+Innovation" alt="Made with love" />
 
-*"Turning Complex Data into Intelligent Solutions"*
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Powered%20by-AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+</p>
 
-⭐ If you find this portfolio interesting, please consider giving it a star!
+### ⭐ If you like my work, please star this repository! ⭐
 
 </div>
+

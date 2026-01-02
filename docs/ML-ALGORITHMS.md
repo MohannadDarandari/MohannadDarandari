@@ -1,4 +1,21 @@
+<div align="center">
+
+<!-- Epic Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,6,11,12&height=280&section=header&text=🧠%20ML%20ALGORITHMS&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Master%20the%20Art%20of%20Machine%20Learning&descSize=22&descAlignY=58" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🎯+50%2B+Algorithms+Explained;⚡+From+Basics+to+Advanced;🚀+Production-Ready+Code" alt="ML Algorithms" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+</div>
+
 # 🧠 Machine Learning Algorithms - Deep Dive
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithms-50%2B-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Category-Supervised%20%7C%20Unsupervised%20%7C%20RL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Expert-orange?style=for-the-badge"/>
+</p>
 
 ## Table of Contents
 1. [Supervised Learning](#supervised-learning)
