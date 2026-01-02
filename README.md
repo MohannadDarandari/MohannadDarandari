@@ -3,12 +3,12 @@
 <!-- Animated Welcome Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
-<br><br>
+<br><br><br>
 
 <!-- Animated Name with Effects -->
-<h1>
+<h1 style="padding-top: 30px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=70&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MOHANNAD;DARANDARI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=100&lines=MOHANNAD;DARANDARI" alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
 </h1>
 
