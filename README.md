@@ -4,7 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=350&section=header&text=MOHANNAD%20DARANDARI&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%20VISIONARY%20|%20🚀%20ML%20ARCHITECT%20|%20⚡%20AUTOMATION%20MASTER%20|%20💡%20INNOVATION%20LEADER&descSize=22&descAlignY=58" width="100%"/>
 
 <!-- Multi-Line Dynamic Typing Effect -->
-<a href="https://github.com/MohannadDarandari"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🔥+Revolutionizing+AI+%26+Automation+in+2026;💎+Expert+in+LLMs+%7C+RAG+%7C+MCP+%7C+Multi-Agent+Systems;⚡+Master+of+n8n+%7C+UiPath+%7C+Automation+Anywhere;🚀+Building+Next-Gen+Intelligent+Agents;🎯+Transforming+Vision+into+Reality" alt="Typing SVG" /></a>
+<a href="https://github.com/MohannadDarandari">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=Revolutionizing+AI+and+Automation+in+2026;Expert+in+LLMs+RAG+MCP+Multi-Agent+Systems;Master+of+n8n+UiPath+Automation+Anywhere;Building+Next-Gen+Intelligent+Agents;Transforming+Vision+into+Reality" alt="Typing SVG" />
+</a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -275,7 +277,7 @@
 <!-- Projects Section Header -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌟+Featured+Projects+🌟" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Featured+Projects" alt="Projects" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -595,7 +597,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=📫+Let's+Connect+%26+Collaborate!;💼+Open+to+Opportunities;🚀+Building+the+Future+of+AI" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Let's+Connect+and+Collaborate!;Open+to+Opportunities;Building+the+Future+of+AI" alt="Connect" />
 
 <!-- Social Buttons with Hover Effect -->
 <p align="center">
@@ -612,7 +614,7 @@
 <!-- Animated Message -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=900&lines=⭐+Star+my+repos+if+you+find+them+useful!+⭐;🔥+Check+out+my+latest+AI+projects!+🔥;💡+Let's+build+amazing+things+together!+💡;🤝+Always+open+to+collaboration!+🤝" alt="Footer Message" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=900&lines=Star+my+repos+if+you+find+them+useful!;Check+out+my+latest+AI+projects!;Let's+build+amazing+things+together!;Always+open+to+collaboration!" alt="Footer Message" />
 
 <!-- Stats and Badges -->
 <p align="center">
@@ -646,7 +648,7 @@ This portfolio is licensed under the **MIT License** - see the [LICENSE](./LICEN
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+Mohannad+Darandari;Turning+Data+into+Intelligence;Powered+by+AI+%26+Innovation" alt="Made with love" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Made+with+Love+by+Mohannad+Darandari;Turning+Data+into+Intelligence;Powered+by+AI+and+Innovation" alt="Made with love" />
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
