@@ -597,18 +597,14 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Let's+Connect+and+Collaborate!;Open+to+Opportunities;Building+the+Future+of+AI" alt="Connect" />
 
-<!-- Social Buttons with Hover Effect -->
-<p align="center">
-  <a href="https://linkedin.com/in/mohannad-darandari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="40"/></a>
-  <a href="https://github.com/MohannadDarandari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
-  <a href="https://twitter.com/MohannadDarandari"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40"/></a>
-  <a href="https://kaggle.com/mohannaddarandari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40"/></a>
-  <a href="mailto:mohannad@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
-</p>
+
+<!-- Epic Divider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 <!-- GitHub Contribution Graph -->
+<h2>📊 GitHub Analytics & Contribution Timeline</h2>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohannadDarandari&theme=radical" width="95%"/>
 </p>
@@ -618,11 +614,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohannadDarandari&theme=radical" width="48%"/>
 </p>
 
-<!-- Animated Message -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=900&lines=Star+my+repos+if+you+find+them+useful!;Check+out+my+latest+AI+projects!;Let's+build+amazing+things+together!;Always+open+to+collaboration!" alt="Footer Message" />
-
 <!-- Stats and Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/MohannadDarandari?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars"/>
@@ -630,32 +621,6 @@
   <img src="https://komarev.com/ghpvc/?username=MohannadDarandari&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<!-- Fun Badges -->
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="30"/>
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" height="30"/>
-</p>
-
-<!-- Random Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="800"/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20Shape%20the%20Future%20Together%20🚀&descSize=20&descAlignY=90" width="100%"/>
-
-</div>
-
----
-
-## 📝 License
-
-This portfolio is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
-
----
-
-<div align="center">
-
-<!-- Epic Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 <!-- Animated Hearts and Sparkles -->
