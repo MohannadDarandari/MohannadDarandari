@@ -3,6 +3,8 @@
 <!-- Animated Welcome Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
+<br><br>
+
 <!-- Animated Name with Effects -->
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
@@ -10,8 +12,12 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
 </h1>
 
+<br>
+
 <!-- Subtitle with Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFE66D&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer+%26+ML+Architect;⚡+Automation+Master;💡+Innovation+Leader;🚀+Building+the+Future+of+AI" alt="Subtitle" />
+
+<br><br>
 
 <!-- Multi-Line Dynamic Typing Effect -->
 <a href="https://github.com/MohannadDarandari">
