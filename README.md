@@ -24,6 +24,11 @@
 
 <br>
 
+<!-- Multi-Line Dynamic Typing with ALL Skills -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=220&lines=Revolutionizing+AI+and+Automation+in+2026;Expert+in+LLMs+RAG+MCP+Multi-Agent+Systems;Master+of+n8n+UiPath+Automation+Anywhere;Building+Next-Gen+Intelligent+Agents;Transforming+Vision+into+Reality" alt="Skills Animation" />
+
+<br>
+
 <!-- Epic Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=150&section=footer" width="100%"/>
 
