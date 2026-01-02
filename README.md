@@ -15,7 +15,7 @@
 <br>
 
 <!-- Subtitle with Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFE66D&center=true&vCenter=true&width=900&height=120&lines=🤖+AI+Engineer+%26+ML+Architect;⚡+Automation+Master;💡+Innovation+Leader;🚀+Building+the+Future+of+AI" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFE66D&center=true&vCenter=true&width=900&height=120&lines=AI+Engineer+and+ML+Architect;Automation+Master;Innovation+Leader;Building+the+Future+of+AI" alt="Subtitle" />
 
 <br><br>
 
