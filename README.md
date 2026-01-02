@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic Animated Header with Wave Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=350&section=header&text=MOHANNAD%20DARANDARI&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🤖%20AI%20VISIONARY%20|%20🚀%20ML%20ARCHITECT%20|%20⚡%20AUTOMATION%20MASTER%20|%20💡%20INNOVATION%20LEADER&descSize=20&descAlignY=58&rotate=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=350&section=header&text=MOHANNAD%20DARANDARI&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🤖%20AI%20VISIONARY%20|%20🚀%20ML%20ARCHITECT%20|%20⚡%20AUTOMATION%20MASTER%20|%20💡%20INNOVATION%20LEADER&descSize=20&descAlignY=58&rotate=0&fontFace=Fira%20Code&descFontFace=Fira%20Code" width="100%"/>
 
 <!-- Multi-Line Dynamic Typing Effect -->
 <a href="https://github.com/MohannadDarandari">
