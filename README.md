@@ -8,48 +8,165 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ 
 ```
 
-# 🤖 **Mohannad Darandari** - Advanced AI Engineer | 2050+
-
 <div align="center">
 
-```
-████████████████████████████████████████████████████████████████
-█                                                              █
-█  🧠 AI ARCHITECT | 🚀 ML ENGINEER | 💡 INNOVATOR            █
-█                                                              █
-████████████████████████████████████████████████████████████████
-```
+<!-- Animated Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=MOHANNAD%20DARANDARI&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20ARCHITECT%20|%20🚀%20ML%20ENGINEER%20|%20💡%20AUTOMATION%20EXPERT&descSize=25&descAlignY=55" width="100%"/>
 
-### ⚡ ELITE AI/ML SPECIALIST ⚡
+<!-- Typing Animation SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Pushing+AI+Boundaries+in+2026+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+MCP+%7C+Automation+Expert;Building+Intelligent+Agents+%26+Systems" alt="Typing SVG" /></a>
 
-[![AI Engineer](https://img.shields.io/badge/🤖_AI_ENGINEER-ADVANCED-FF00FF?style=for-the-badge)](https://github.com/MohannadDarandari)
-[![Deep Learning](https://img.shields.io/badge/🧠_DEEP_LEARNING-MASTER-00FF00?style=for-the-badge)](https://github.com/MohannadDarandari)
-[![ML Systems](https://img.shields.io/badge/⚙️_ML_SYSTEMS-EXPERT-FF6B6B?style=for-the-badge)](https://github.com/MohannadDarandari)
-[![Data Science](https://img.shields.io/badge/📊_DATA_SCIENCE-PROFESSIONAL-FFD700?style=for-the-badge)](https://github.com/MohannadDarandari)
+<!-- Animated Glowing Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Deep_Learning-Expert-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a&animation=pulse" />
+  <img src="https://img.shields.io/badge/🤖_LLMs_&_GPT-Specialist-4ECDC4?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/⚡_Automation-Ninja-FFE66D?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🔮_RAG_Systems-Pioneer-A8E6CF?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🎯_MCP_Protocol-Advanced-FF8B94?style=for-the-badge&logo=protocol&logoColor=white&labelColor=1a1a1a" />
+</p>
 
-```
-🔥 TRANSFORMING DATA → INTELLIGENCE → INNOVATION 🔥
-```
+<!-- Animated Stats with Glow Effect -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohannadDarandari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20%F0%9F%94%A5" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohannadDarandari&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFE66D&currStreakLabel=00D9FF" width="49%" />
+</p>
 
-### ✨ *Architecting Tomorrow's Intelligent Systems Today* ✨
+<!-- Animated Tech Stack -->
+<p align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</p>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 👨‍💼 Professional Overview
+---
 
-Advanced AI Engineer with deep expertise in Machine Learning, Deep Learning, and Data Science. Specialized in architecting scalable AI solutions, implementing cutting-edge neural networks, and automating complex data pipelines. Passionate about transforming raw data into actionable intelligence through advanced analytics and intelligent systems.
+## 🎯 Professional Overview
 
-**Years of Experience**: 2050+ | **Projects Delivered**: 50+ | **Publications**: 15+ | **Certifications**: 25+
+<img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+**Elite AI/ML Engineer** pioneering next-generation intelligent systems with cutting-edge **2026 technologies**. Mastering **Large Language Models (LLMs)**, **RAG architectures**, **Model Context Protocol (MCP)**, and enterprise **automation platforms**.
+
+### 🚀 Current Focus (2026):
+- 🤖 Building production **RAG systems** with semantic search & reranking
+- ⚡ Developing **MCP-powered** AI agents & intelligent workflows  
+- 🔧 Creating **n8n/UiPath/Automation Anywhere** automation pipelines
+- 🧠 Fine-tuning **LLama 3.2**, **GPT-4 Turbo**, **Claude 3.5** for domain tasks
+- 📊 Deploying **real-time ML** inference at cloud scale
+- 🎯 Building **multi-agent systems** for complex problem-solving
+
+💡 **Mission:** Transform businesses through AI automation, intelligent agents, and semantic intelligence.
+
+**Expertise:** 5+ Years | **Projects:** 50+ | **Certifications:** 25+ | **Publications:** 15+
 
 ---
 
-## 🎓 Core Competencies
+---
 
-### 🧠 Artificial Intelligence & Machine Learning
-- **Deep Learning**: TensorFlow, PyTorch, Keras, JAX, Hugging Face Transformers
-- **ML Frameworks**: Scikit-learn, XGBoost, LightGBM, CatBoost, AutoML
+<div align="center">
+
+## 🔥 2026 CUTTING-EDGE TECH STACK 🔥
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+## 🚀 Core Competencies
+
+<details open>
+<summary><h3>🤖 Generative AI & Large Language Models (2026)</h3></summary>
+
+- 🔮 **LLM Fine-Tuning & Deployment**: GPT-4 Turbo, Claude 3.5 Sonnet, LLama 3.2, Mistral 8x7B, Gemini Pro
+- 🎯 **RAG Architectures**: Semantic chunking, hybrid search (vector + keyword), reranking, query optimization
+- ⚡ **Vector Databases**: Pinecone, Weaviate, Qdrant, ChromaDB, FAISS - production deployments at scale
+- 🧠 **Embedding Models**: OpenAI Ada-002, Sentence Transformers, Cohere Embed v3, BGE-M3
+- 🔗 **Model Context Protocol (MCP)**: Building standardized AI agent communication layers
+- 🎨 **Prompt Engineering**: Chain-of-Thought, Tree-of-Thoughts, ReAct, Constitutional AI
+- 🛠️ **LangChain & LlamaIndex**: Advanced orchestration, memory systems, agent frameworks
+- 📚 **Knowledge Graphs**: Neo4j integration for semantic reasoning and entity relationships
+
+</details>
+
+<details open>
+<summary><h3>⚡ AI Automation & Orchestration (2026)</h3></summary>
+
+- 🔄 **n8n Automation**: 100+ custom AI workflows, webhook integration, scheduled pipelines
+- 🎯 **UiPath Studio**: RPA + AI hybrid bots, document understanding, intelligent process automation
+- 🏢 **Automation Anywhere 360**: Cloud-native IQ Bots, AI-powered exception handling
+- 🤖 **Zapier/Make**: No-code AI integrations, multi-app workflows
+- 🐍 **Python Automation**: Selenium, BeautifulSoup, Playwright for web scraping & testing
+- 📧 **Email Automation**: Smart categorization, sentiment analysis, auto-response systems
+- 📊 **Data Pipeline Orchestration**: Apache Airflow, Prefect, Dagster for ML workflows
+- 🔐 **Secure API Integration**: OAuth2, JWT, rate limiting, webhook security
+
+</details>
+
+<details open>
+<summary><h3>🧠 Deep Learning & Neural Networks</h3></summary>
+
+- 🔥 **Frameworks**: PyTorch 2.2, TensorFlow 2.15, JAX, Flax, Hugging Face Transformers 4.36
+- 🎯 **Model Architectures**: Vision Transformers (ViT), Swin Transformers, BERT, GPT, T5, CLIP
+- 🌐 **Graph Neural Networks**: PyTorch Geometric, DGL, GraphSAGE, GAT, GIN
+- 🎨 **Generative Models**: Stable Diffusion, DALL-E 3, Midjourney API, ControlNet, LCM
+- 🔮 **Diffusion Models**: DDPM, DDIM, Latent Diffusion, Classifier-Free Guidance
+- ⚡ **Model Optimization**: ONNX Runtime, TensorRT, Quantization (INT8, FP16), Pruning, Distillation
+- 🧮 **Training Techniques**: Mixed Precision (AMP), Gradient Accumulation, DeepSpeed, FSDP
+
+</details>
+
+<details open>
+<summary><h3>📊 MLOps & Production Deployment (2026)</h3></summary>
+
+- 🐳 **Containerization**: Docker, Docker Compose, Kubernetes (K8s), Helm Charts
+- ☸️ **Orchestration**: Kubernetes, KServe, Seldon Core, BentoML 1.2
+- 📈 **Experiment Tracking**: MLflow 2.10, Weights & Biases, Neptune.ai, Comet ML
+- 🔄 **CI/CD for ML**: GitHub Actions, GitLab CI, Jenkins, ArgoCD
+- 📦 **Model Registry**: MLflow Registry, DVC, Weights & Biases Registry
+- 🎯 **Feature Stores**: Feast, Tecton, Hopsworks for real-time features
+- 📊 **Monitoring**: Prometheus, Grafana, Evidently AI for drift detection
+- ☁️ **Cloud Platforms**: AWS SageMaker, Google Vertex AI, Azure ML Studio
+
+</details>
+
+<details open>
+<summary><h3>🔮 2026 NEW: RAG & Knowledge Systems</h3></summary>
+
+- 📚 **RAG Frameworks**: LlamaIndex 0.10, LangChain 0.1, Haystack 2.0
+- 🔍 **Vector Databases**: Pinecone (serverless), Qdrant Cloud, Weaviate, Milvus, ChromaDB
+- 🎯 **Embedding Models**: OpenAI text-embedding-3-large, Cohere Embed v3, BGE-M3, E5-Mistral
+- 🔄 **Retrieval Strategies**: Hybrid search, Parent-Child retrieval, Sentence-Window, Auto-Merging
+- 🧮 **Reranking**: Cohere Rerank 3, Cross-Encoder models, ColBERT v2
+- 📊 **Chunking Strategies**: Semantic chunking, recursive splitting, token-aware splitting
+- 🗃️ **Document Processing**: Unstructured.io, LlamaParse, PyMuPDF, docling
+- 💬 **Query Optimization**: Query expansion, HyDE, Multi-Query, Step-Back prompting
+
+</details>
+
+<details open>
+<summary><h3>🤖 2026 NEW: Model Context Protocol (MCP)</h3></summary>
+
+- 🔗 **MCP Servers**: Building custom MCP servers for tool integration
+- 🛠️ **Tool Calling**: Function calling with structured outputs, parallel tool execution
+- 🔌 **Integration**: Connect LLMs to databases, APIs, file systems, computation engines
+- 📡 **Protocols**: JSON-RPC 2.0, Server-Sent Events (SSE), WebSocket connections
+- 🎯 **Use Cases**: Database queries, file operations, web browsing, code execution
+- 🔐 **Security**: Authentication, authorization, sandboxed execution environments
+- 📊 **Monitoring**: Request/response logging, performance tracking, error handling
+
+</details>
 - **NLP**: BERT, GPT, T5, Transformers, Seq2Seq, LSTM, GRU, Attention Mechanisms
 - **Computer Vision**: CNN, ResNet, YOLO, Faster R-CNN, Vision Transformers, DALL-E
 - **Reinforcement Learning**: Q-Learning, Policy Gradient, Actor-Critic, PPO, A3C
