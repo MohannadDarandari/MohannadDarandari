@@ -58,12 +58,11 @@
   <img src="https://skillicons.dev/icons?i=vscode,vim,linux,bash,powershell" />
 </p>
 
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohannadDarandari/MohannadDarandari/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Contribution Snake Animation - Will appear after first run -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<!-- If snake doesn't show, here's a cool wave instead -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 <!-- Profile Views Counter -->
 <p align="center">
