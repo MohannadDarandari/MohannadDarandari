@@ -21,10 +21,10 @@
 
 <!-- Multi-Line Dynamic Typing Effect -->
 <a href="https://github.com/MohannadDarandari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=Revolutionizing+AI+and+Automation+in+2026;Expert+in+LLMs+RAG+MCP+Multi-Agent+Systems;Master+of+n8n+UiPath+Automation+Anywhere;Building+Next-Gen+Intelligent+Agents;Transforming+Vision+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=250&lines=Revolutionizing+AI+and+Automation+in+2026;Expert+in+LLMs+RAG+MCP+Multi-Agent+Systems;Master+of+n8n+UiPath+Automation+Anywhere;Building+Next-Gen+Intelligent+Agents;Transforming+Vision+into+Reality" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br><br><br>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
