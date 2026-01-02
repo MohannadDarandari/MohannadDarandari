@@ -5,6 +5,7 @@
 
 <br><br><br>
 
+<!-- ============= OPTION 1: Simple Style ============= -->
 <!-- Animated Name with Effects -->
 <h1 style="padding-top: 30px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
@@ -25,6 +26,37 @@
 </a>
 
 <br><br><br>
+
+---
+
+<br><br>
+
+<!-- ============= OPTION 2: Epic Style with Effects ============= -->
+<!-- Epic Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=150&section=header" width="100%"/>
+
+<!-- Animated Name with Multiple Effects -->
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=100&lines=MOHANNAD+DARANDARI" alt="Name" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="45" />
+</h1>
+
+<!-- Epic Subtitle -->
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&height=80&lines=AI+Engineer+%7C+ML+Architect+%7C+Automation+Expert;Building+Tomorrow's+Intelligence+TODAY" alt="Epic Subtitle" />
+</h2>
+
+<!-- Epic Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=150&section=footer" width="100%"/>
+
+<br><br>
+
+---
+
+<br><br>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
