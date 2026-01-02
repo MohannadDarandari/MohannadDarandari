@@ -1,7 +1,17 @@
 <div align="center">
 
-<!-- Epic Animated Header with Wave Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=350&section=header&text=MOHANNAD%20DARANDARI&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🤖%20AI%20VISIONARY%20|%20🚀%20ML%20ARCHITECT%20|%20⚡%20AUTOMATION%20MASTER%20|%20💡%20INNOVATION%20LEADER&descSize=18&descAlignY=58&rotate=0&fontFace=Press%20Start%202P" width="100%"/>
+<!-- Animated Welcome Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+
+<!-- Animated Name with Effects -->
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=70&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MOHANNAD;DARANDARI" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
+</h1>
+
+<!-- Subtitle with Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFE66D&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer+%26+ML+Architect;⚡+Automation+Master;💡+Innovation+Leader;🚀+Building+the+Future+of+AI" alt="Subtitle" />
 
 <!-- Multi-Line Dynamic Typing Effect -->
 <a href="https://github.com/MohannadDarandari">
