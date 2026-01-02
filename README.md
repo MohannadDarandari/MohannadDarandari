@@ -3,58 +3,29 @@
 <!-- Animated Welcome Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
-<br><br><br>
+<br><br>
 
-<!-- ============= OPTION 1: Simple Style ============= -->
-<!-- Animated Name with Effects -->
-<h1 style="padding-top: 30px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=100&lines=MOHANNAD;DARANDARI" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" />
+<!-- Epic Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=150&section=header" width="100%"/>
+
+<br>
+
+<!-- Animated Name -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=45&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&height=100&lines=MOHANNAD+DARANDARI" alt="Name" />
 </h1>
 
 <br>
 
-<!-- Subtitle with Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFE66D&center=true&vCenter=true&width=900&height=120&lines=AI+Engineer+and+ML+Architect;Automation+Master;Innovation+Leader;Building+the+Future+of+AI" alt="Subtitle" />
-
-<br><br>
-
-<!-- Multi-Line Dynamic Typing Effect -->
-<a href="https://github.com/MohannadDarandari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=250&lines=Revolutionizing+AI+and+Automation+in+2026;Expert+in+LLMs+RAG+MCP+Multi-Agent+Systems;Master+of+n8n+UiPath+Automation+Anywhere;Building+Next-Gen+Intelligent+Agents;Transforming+Vision+into+Reality" alt="Typing SVG" />
-</a>
-
-<br><br><br>
-
----
-
-<br><br>
-
-<!-- ============= OPTION 2: Epic Style with Effects ============= -->
-<!-- Epic Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=150&section=header" width="100%"/>
-
-<!-- Animated Name with Multiple Effects -->
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=100&lines=MOHANNAD+DARANDARI" alt="Name" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="45" />
-</h1>
-
 <!-- Epic Subtitle -->
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&height=80&lines=AI+Engineer+%7C+ML+Architect+%7C+Automation+Expert;Building+Tomorrow's+Intelligence+TODAY" alt="Epic Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&height=100&lines=AI+Engineer+and+ML+Architect;Building+Tomorrow's+Intelligence+TODAY" alt="Epic Subtitle" />
 </h2>
+
+<br>
 
 <!-- Epic Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,14,17,20,24,25,27,30&height=150&section=footer" width="100%"/>
-
-<br><br>
-
----
 
 <br><br>
 
