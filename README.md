@@ -137,7 +137,7 @@
 ## 🚀 Core Competencies
 
 <details open>
-<summary><h3>🤖 Generative AI & Large Language Models (2026)</h3></summary>
+<summary><h3>🤖 Generative AI & Large Language Models (2025)</h3></summary>
 
 - 🔮 **LLM Fine-Tuning & Deployment**: GPT-4 Turbo, Claude 3.5 Sonnet, LLama 3.2, Mistral 8x7B, Gemini Pro
 - 🎯 **RAG Architectures**: Semantic chunking, hybrid search (vector + keyword), reranking, query optimization
