@@ -128,7 +128,7 @@
 
 <div align="center">
 
-## 🔥 2026 CUTTING-EDGE TECH STACK 🔥
+## 🔥 2025 CUTTING-EDGE TECH STACK 🔥
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -151,7 +151,7 @@
 </details>
 
 <details open>
-<summary><h3>⚡ AI Automation & Orchestration (2026)</h3></summary>
+<summary><h3>⚡ AI Automation & Orchestration (2025)</h3></summary>
 
 - 🔄 **n8n Automation**: 100+ custom AI workflows, webhook integration, scheduled pipelines
 - 🎯 **UiPath Studio**: RPA + AI hybrid bots, document understanding, intelligent process automation
@@ -178,7 +178,7 @@
 </details>
 
 <details open>
-<summary><h3>📊 MLOps & Production Deployment (2026)</h3></summary>
+<summary><h3>📊 MLOps & Production Deployment (2025)</h3></summary>
 
 - 🐳 **Containerization**: Docker, Docker Compose, Kubernetes (K8s), Helm Charts
 - ☸️ **Orchestration**: Kubernetes, KServe, Seldon Core, BentoML 1.2
@@ -192,7 +192,7 @@
 </details>
 
 <details open>
-<summary><h3>🔮 2026 NEW: RAG & Knowledge Systems</h3></summary>
+<summary><h3>🔮 2025 NEW: RAG & Knowledge Systems</h3></summary>
 
 - 📚 **RAG Frameworks**: LlamaIndex 0.10, LangChain 0.1, Haystack 2.0
 - 🔍 **Vector Databases**: Pinecone (serverless), Qdrant Cloud, Weaviate, Milvus, ChromaDB
@@ -206,7 +206,7 @@
 </details>
 
 <details open>
-<summary><h3>🤖 2026 NEW: Model Context Protocol (MCP)</h3></summary>
+<summary><h3>🤖 2025 NEW: Model Context Protocol (MCP)</h3></summary>
 
 - 🔗 **MCP Servers**: Building custom MCP servers for tool integration
 - 🛠️ **Tool Calling**: Function calling with structured outputs, parallel tool execution
