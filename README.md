@@ -482,40 +482,44 @@
 
 ## 🎓 Certifications & Credentials
 
-### Advanced Machine Learning
-- ✅ **TensorFlow Advanced Specialization** - Google | [Verify](#)
-- ✅ **Deep Learning Specialization** - Andrew Ng | [Verify](#)
-- ✅ **Kubernetes for Machine Learning** - Linux Foundation | [Verify](#)
-- ✅ **AWS Machine Learning Specialty** - Amazon AWS | [Verify](#)
+### Professional Memberships (2025)
+- ✅ **Member — Saudi Council of Engineers** | [Verify](#)
+- ✅ **Certified Supply Chain Analyst (CSCA)** - ISCEA | [Verify](#)
+- ✅ **IEEE Member** - Computational Intelligence Society & Biometrics Council | [Verify](#)
 
-### Specialized Domains
-- ✅ **Natural Language Processing Specialization** - DeepLearning.AI | [Verify](#)
-- ✅ **Computer Vision Advanced Techniques** - Fast.ai | [Verify](#)
-- ✅ **Reinforcement Learning: From Theory to Practice** - University Course | [Verify](#)
-- ✅ **MLOps Engineer Learning Path** - Google Cloud | [Verify](#)
+### AI & Machine Learning
+- ✅ **Advanced Artificial Intelligence** - KAUST | Mar 2024
+- ✅ **Introduction to Artificial Intelligence** - KAUST | Feb 2024
+- ✅ **ML Practitioner** - SDAIA | Jan 2024
+- ✅ **Artificial Intelligence Foundations** - SDAIA | Oct 2022
+- ✅ **AI Specialization** - IBM | Sep 2022
+
+### RPA & Automation
+- ✅ **Certified Advanced RPA Professional** - Automation Anywhere | Mar 2023
+- ✅ **RPA Bootcamp (400 Hours)** - MCIT Saudi Arabia | Mar 2023
+- ✅ **Red Belt in UiPath** - Coding Dojo | Feb 2023
+- ✅ **Red Belt in Automation Anywhere** - Coding Dojo | Jan 2023
+
+### Robotics & Engineering (Smart Methods 2024)
+- ✅ **Full Stack Robotics Engineer** | Aug 2024
+- ✅ **Robot Legs Implementation** | Jul 2024
+- ✅ **Linux System** | Jul 2024
+- ✅ **Engineering Skills** | Jul 2024
+- ✅ **DevOps Fundamentals** | Jun 2024
+
+### Data & Analytics
+- ✅ **Google Data Analytics Professional** - Google | Sep 2022
+- ✅ **Chatbot Building** - IBM | Sep 2022
+- ✅ **CSCA Completion** - Nahdi Medical | Nov 2024
+
+### Cybersecurity
+- ✅ **CyberSecurity Foundations** - Cisco | Jun 2022
+- ✅ **Cybersecurity Essentials** - Cisco | Jun 2022
 
 ### Professional Development
-- ✅ **Data Science Professional Certificate** - IBM | [Verify](#)
-- ✅ **Advanced Python for Data Science** - DataCamp | [Verify](#)
-- ✅ **Database Design & SQL Mastery** - Coursera | [Verify](#)
-- ✅ **Cloud Architecture & DevOps** - Linux Academy | [Verify](#)
-
-### Specialized AI Domains
-- ✅ **Generative AI: Building LLM Applications** - DeepLearning.AI | [Verify](#)
-- ✅ **Computer Vision with PyTorch** - Fast.ai | [Verify](#)
-- ✅ **Advanced NLP: Transformers & BERT** - Hugging Face | [Verify](#)
-- ✅ **Time Series Forecasting** - DataCamp | [Verify](#)
-
-### Cloud & Infrastructure
-- ✅ **AWS Solutions Architect Associate** - Amazon | [Verify](#)
-- ✅ **Google Cloud Professional Data Engineer** - Google | [Verify](#)
-- ✅ **Certified Kubernetes Administrator** - CNCF | [Verify](#)
-- ✅ **Docker & Containerization Mastery** - Linux Academy | [Verify](#)
-
-### Industry Recognition
-- ✅ **GitHub Developer** | [Profile](#)
-- ✅ **IEEE Member - CIS & Biometrics Council** | [Certificate](#)
-- ✅ **Active Community Contributor** | [Certificate](#)
+- ✅ **Misk Essential Skills Champion Badge** - Misk Skills | Aug 2023
+- ✅ **ESL Certificate** - Southern Illinois University | Oct 2020
+- ✅ **ESL Certificate** - DePaul University | Sep 2020
 
 ---
 
