@@ -458,8 +458,110 @@
 </div>
 
 ---
-- **Innovation**: Semantic chunking, re-ranking, fact verification pipeline
-- [📁 View Project](#) | [📚 Documentation](#) | [🔗 Live Demo](#)
+
+## 🏆 Real-World Projects (Production)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Production+Deployed+Systems" alt="Real Projects" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Enterprise MCP AI Platform
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square)
+![LLM](https://img.shields.io/badge/Local_LLM-00D9FF?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**BTC Networks - Production System**
+- 🔗 Full MCP AI system with on-prem local LLM
+- 🗃️ Oracle integration with RAG pipelines
+- 💬 NL2SQL dynamic query generation
+- 📊 Real-time executive dashboards
+- 🔐 SSO authentication & RBAC
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Glioblastoma Detection
+![DeepLearning](https://img.shields.io/badge/Deep_Learning-9B59B6?style=flat-square)
+![Medical](https://img.shields.io/badge/Medical_AI-E74C3C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Clinical Decision Support System**
+- 🏥 Brain tumor detection from MRI/CT scans
+- 🎯 **97% accuracy** on multimodal radiology data
+- 👨‍⚕️ Integrated into clinical workflows
+- 🖥️ User-friendly physician interface
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Supply Chain Automation
+![PowerAutomate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![RPA](https://img.shields.io/badge/RPA-00B388?style=flat-square)
+
+**Nahdi Medical - Production System**
+- 📋 Managing **260+ tasks annually**
+- 🤖 **9 custom bots** for workflow automation
+- 🔄 Real-time sync: Excel ↔ Planner ↔ Outlook ↔ Power BI
+- 📧 Automated daily updates & email reminders
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 AI Corporate Website & Chatbot
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Automation](https://img.shields.io/badge/Workflow-FFE66D?style=flat-square)
+
+**BTC Networks - Live System**
+- 🌐 Corporate website with React
+- 🤖 AI chatbot (n8n + Power Automate)
+- 📄 Automated CV collection & lead handling
+- 📅 Appointment reservations & support tickets
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity ML Model
+![ML](https://img.shields.io/badge/Machine_Learning-2ECC71?style=flat-square)
+![Security](https://img.shields.io/badge/Cybersecurity-330867?style=flat-square)
+![Anomaly](https://img.shields.io/badge/Anomaly_Detection-E74C3C?style=flat-square)
+
+**BTC Networks - Threat Detection**
+- 📊 Analyzing **40,000+ security logs**
+- 🔍 **25 features** for pattern detection
+- 🚨 Real-time anomaly & attack detection
+- 🛡️ Proactive defense capabilities
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 Refund Process Automation
+![AA](https://img.shields.io/badge/Automation_Anywhere-FF6B00?style=flat-square)
+![RPA](https://img.shields.io/badge/RPA-00B388?style=flat-square)
+![Workflow](https://img.shields.io/badge/Workflow-3498DB?style=flat-square)
+
+**AlFares Gyms - Production Bot**
+- 💳 Automated refund processing
+- 📧 Email communication & data storage
+- ✅ **99.9% reduction** in manual errors
+- ⚡ **80% faster** processing time
+
+</td>
+</tr>
+</table>
 
 ---
 
